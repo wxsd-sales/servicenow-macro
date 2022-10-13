@@ -3,7 +3,7 @@
 This is a Webex Device Macro which enables you to create a ServiceNow Incident straight from the devices UI. 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/21026209/195474727-f425ba79-88d3-4720-a003-c62d15faa48e.gif" />
+  <img src="https://user-images.githubusercontent.com/21026209/195579803-814adc03-094d-45bc-80b7-0137daf44eb3.gif" />
 </p>
 
 ## How it works
