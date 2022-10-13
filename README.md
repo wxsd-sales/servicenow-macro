@@ -8,7 +8,7 @@ This is a Webex Device Macro which enables you to create a ServiceNow Incident s
 
 ## How it works
 
-ServiceNow provides a REST API to create new incidents and we can make that API request from the Webex Deivce. This Macro can be configured with up to 5 different preconfigured issue topics and can each include seperate configurations for the fields in a ServiceNow incident so the appropate Priority and Assignment Groups are automatically set.
+ServiceNow provides a REST API to create new incidents and we can make that API request from the Webex Deivce. This Macro can be configured with up to 5 different preconfigured issue topics with control of the fields the ServiceNow incident will be set to, eg. Priority and Assignment Groups
 
 ## Requirements
 
